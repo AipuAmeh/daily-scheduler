@@ -1,1 +1,1 @@
-# weekly-scheduler
+# daily-scheduler
