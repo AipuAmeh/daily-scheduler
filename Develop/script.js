@@ -5,7 +5,9 @@ var saveButton = $(".saveBtn");
 $(function () {
 
   currentHour = dayjs().format("H")
-
+  var currentDate = dayjs().format("dddd, MMMM D");
+  $("#currentDay").text(currentDate);
+  console.log(currentDate);
 
   timeBlock.each(function() {
     var dayHour = $(this).data("time");
@@ -52,6 +54,5 @@ for (var i = 0; i < saved.length; i++) {
   textArea.text(saved[i].task);
 }}
  
-  var currentDate = dayjs().format("dddd, MMMM D");
-  $("#currentDay").text(currentDate);
+ 
 });
