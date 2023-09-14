@@ -5,7 +5,8 @@ In this week's challenge, we had to create a daily scheduler that showed the cur
 
 ## Installation
 
-Link: https://aipuameh.github.io/daily-scheduler/
+[Link to Deployed Site](https://aipuameh.github.io/daily-scheduler/)
+
 <img width="1432" alt="Screenshot 2023-04-20 at 10 42 44 PM" src="https://user-images.githubusercontent.com/110988589/233528176-87b60fcd-c9d1-405c-adb6-3d13fc23c268.png">
 
 
